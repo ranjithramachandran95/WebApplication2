@@ -9,8 +9,9 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Hello all! Welocome
+            Hello all! Welcome
         </div>
+        <p>Have a good day!</p>
     </form>
 </body>
 </html>
